@@ -4,8 +4,15 @@
         <description><![CDATA[Beyond Beauty]]></description>
         <link>https://thegrid.ai/beyond-beauty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 00:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 01:02:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/beyond-beauty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Quinta da Regaleira in Sintra, Portugal | Photography by Matthias Haker" src="https://pbs.twimg.com/media/CdUALylW8AAUTLD.jpg:large">]]></description>
+            <link>https://twitter.com/BEAUTIFULPlCS/status/708472719348736000?lang=en-gb</link>
+            <guid isPermaLink="false">adecb4e8-b4ac-4ce3-ac37-09f430bbbaba</guid>
+            <pubDate>Mon, 21 Mar 2016 01:01:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c9848bff6d05f374986a948192e0475c2ae3342.jpg" alt="Adventure time in the snow | Photo by @moners_" title="">]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/BEAUTIFULPlCS/status/709257848665071616?lang=en-gb</link>
             <guid isPermaLink="false">6e888ae8-1a9e-47ff-9eb6-14b5616dac18</guid>
             <pubDate>Mon, 21 Mar 2016 00:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e84839d91409b3877b305a8a1523adb456cf2865.jpg" alt="Santa Maddalena Val Di Funes, Italy | Photo by @vdpfreelancer" title="">]]></description>
-            <link>https://twitter.com/BEAUTIFULPlCS/status/709499679759843329?lang=en-gb</link>
-            <guid isPermaLink="false">8e787977-ca52-40ff-9d2c-4449082cb775</guid>
-            <pubDate>Mon, 21 Mar 2016 00:53:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
