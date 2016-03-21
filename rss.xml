@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Beyond Beauty]]></title>
         <description><![CDATA[Beyond Beauty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beyond-beauty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 00:45:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 00:45:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beyond-beauty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="The windy city | Photo by @brandonexplores #chicago" src="https://pbs.twimg.com/media/CdfKQT5WEAA22qz.jpg:large">]]></description>
+            <link>https://twitter.com/BEAUTIFULPlCS/status/709257848665071616?lang=en-gb</link>
+            <guid isPermaLink="false">6e888ae8-1a9e-47ff-9eb6-14b5616dac18</guid>
+            <pubDate>Mon, 21 Mar 2016 00:45:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Santa Maddalena Val Di Funes, Italy | Photo by @vdpfreelancer" src="https://pbs.twimg.com/media/CdimMuDUkAEk5__.jpg:large">]]></description>
