@@ -1,7 +1,7 @@
 name: Beyond Beauty
 favicon: null
 layout_spectrum: 0.68989
-typography_spectrum: 0
+typography_spectrum: 0.33835
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.0625
-  lightness: 0.8985603793989867
-  saturation: 0.2962450080085546
-  rhythmicContrast: 0.34858995233662426
+  brandStrength: 0.125
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
