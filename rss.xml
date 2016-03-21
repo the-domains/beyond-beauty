@@ -4,8 +4,15 @@
         <description><![CDATA[Beyond Beauty]]></description>
         <link>https://thegrid.ai/beyond-beauty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 01:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 01:02:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/beyond-beauty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="The perfect canals of Venice! | Photo by @pixandpix" src="https://pbs.twimg.com/media/Cd76hWKWEAAmuow.jpg:large">]]></description>
+            <link>https://twitter.com/BEAUTIFULPlCS/status/711281243195891713?lang=en-gb</link>
+            <guid isPermaLink="false">91b254b9-b098-45a6-b73b-af1f3c7a9009</guid>
+            <pubDate>Mon, 21 Mar 2016 01:01:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="The road to breathtaking scenery | Photo by @itseriksen" src="https://pbs.twimg.com/media/Cd8xbudXIAAH3gg.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/BEAUTIFULPlCS/status/709650566708862976?lang=en-gb</link>
             <guid isPermaLink="false">3b8385a6-041e-479c-b14e-19f5150c1568</guid>
             <pubDate>Mon, 21 Mar 2016 00:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/026de1e6ee87ef7b674aee16199ce778517e296a.jpg" alt="&quot;Shine bright like a diamond&quot; | Photo by @ravivora" title="">]]></description>
-            <link>https://twitter.com/BEAUTIFULPlCS/status/710798486804021248?lang=en-gb</link>
-            <guid isPermaLink="false">978ae0ca-9da0-4283-bb0c-49be15aed10c</guid>
-            <pubDate>Mon, 21 Mar 2016 00:54:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
