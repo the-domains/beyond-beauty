@@ -1,4 +1,14 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/BEAUTIFULPlCS/status/709499679759843329?lang=en-gb'
+inLanguage: ca
+starred: false
+keywords: []
+description: 'Santa Maddalena Val Di Funes, Italy | Photo by @vdpfreelancer'
+datePublished: '2016-03-21T00:53:38.560Z'
+dateModified: '2016-03-21T00:51:11.889Z'
 author:
   - name: beautifulplcs
     url: 'http://twitter.com/beautifulplcs'
@@ -23,30 +33,22 @@ author:
           - 148
           - 136
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords: []
-description: 'Santa Maddalena Val Di Funes, Italy | Photo by @vdpfreelancer'
-inLanguage: ca
 app_links:
   - path: 'twitter/tweet?status_id=709499679759843329&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E709499679759843329'
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/BEAUTIFULPlCS/status/709499679759843329?lang=en-gb'
-datePublished: '2016-03-21T00:45:01.063Z'
-dateModified: '2016-03-21T00:42:24.265Z'
 title: ''
 sourcePath: _posts/2016-03-21-santa-maddalena-val-di-funes-italy-or-photo-by-vdpfreelance.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Santa Maddalena Val Di Funes, Italy | Photo by @vdpfreelancer](https://pbs.twimg.com/media/CdimMuDUkAEk5__.jpg:large)
+![Santa Maddalena Val Di Funes, Italy | Photo by @vdpfreelancer](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e84839d91409b3877b305a8a1523adb456cf2865.jpg)
