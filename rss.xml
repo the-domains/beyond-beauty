@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Beyond Beauty]]></title>
+        <description><![CDATA[Beyond Beauty]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 00:45:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Santa Maddalena Val Di Funes, Italy | Photo by @vdpfreelancer" src="https://pbs.twimg.com/media/CdimMuDUkAEk5__.jpg:large">]]></description>
+            <link>https://twitter.com/BEAUTIFULPlCS/status/709499679759843329?lang=en-gb</link>
+            <guid isPermaLink="false">8e787977-ca52-40ff-9d2c-4449082cb775</guid>
+            <pubDate>Mon, 21 Mar 2016 00:45:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
