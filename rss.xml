@@ -4,8 +4,15 @@
         <description><![CDATA[Beyond Beauty]]></description>
         <link>https://thegrid.ai/beyond-beauty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 01:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 01:02:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/beyond-beauty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&quot;Snow dusting the beautiful streets of Prague&quot; Photo by @ilhan1077" src="https://pbs.twimg.com/media/Cd7fTDzXEAAdd8u.jpg:large">]]></description>
+            <link>https://twitter.com/BEAUTIFULPlCS/status/711251310214041600?lang=en-gb</link>
+            <guid isPermaLink="false">83633a58-21f1-4b3b-868e-3905e81433ee</guid>
+            <pubDate>Mon, 21 Mar 2016 01:01:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Quinta da Regaleira in Sintra, Portugal | Photography by Matthias Haker" src="https://pbs.twimg.com/media/CdUALylW8AAUTLD.jpg:large">]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/BEAUTIFULPlCS/status/709409005530181634?lang=en-gb</link>
             <guid isPermaLink="false">e86eb963-6534-43ee-9bad-1869f1d616ae</guid>
             <pubDate>Mon, 21 Mar 2016 00:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41fce5962780823dda0689b54a4456abbe278418.jpg" alt="The windy city | Photo by @brandonexplores #chicago" title="" />]]></description>
-            <link>https://twitter.com/BEAUTIFULPlCS/status/709257848665071616?lang=en-gb</link>
-            <guid isPermaLink="false">6e888ae8-1a9e-47ff-9eb6-14b5616dac18</guid>
-            <pubDate>Mon, 21 Mar 2016 00:53:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
