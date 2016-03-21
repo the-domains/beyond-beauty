@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/BEAUTIFULPlCS/status/710798486804021248?lang=en-gb'
+inLanguage: en
+starred: false
+keywords:
+  - twitter
+  - location
+  - tweet
+  - tzzsaxdubx
+  - dmca
+  - ravivora
+  - justbeautifulpics
+  - beautiful
+  - copying
+  - content
+description: '"Shine bright like a diamond" | Photo by @ravivora'
+datePublished: '2016-03-21T00:54:29.680Z'
+dateModified: '2016-03-21T00:52:22.552Z'
 author:
   - name: beautifulplcs
     url: 'http://twitter.com/beautifulplcs'
@@ -23,40 +43,22 @@ author:
           - 148
           - 136
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - twitter
-  - location
-  - tweet
-  - tzzsaxdubx
-  - dmca
-  - ravivora
-  - justbeautifulpics
-  - beautiful
-  - copying
-  - content
-description: '"Shine bright like a diamond" | Photo by @ravivora'
-inLanguage: en
 app_links:
   - path: 'twitter/tweet?status_id=710798486804021248&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E710798486804021248'
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/BEAUTIFULPlCS/status/710798486804021248?lang=en-gb'
-datePublished: '2016-03-21T00:45:01.313Z'
-dateModified: '2016-03-21T00:40:43.346Z'
 title: ''
 sourcePath: _posts/2016-03-21-shine-bright-like-a-diamond-or-photo-by-ravivora.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-!["Shine bright like a diamond" | Photo by @ravivora](https://pbs.twimg.com/media/Cd1DdQ0WEAACeWS.jpg:large)
+!["Shine bright like a diamond" | Photo by @ravivora](https://s3-us-west-2.amazonaws.com/the-grid-img/p/026de1e6ee87ef7b674aee16199ce778517e296a.jpg)
