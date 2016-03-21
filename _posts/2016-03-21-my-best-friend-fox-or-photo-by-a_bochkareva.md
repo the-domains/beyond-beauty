@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/BEAUTIFULPlCS/status/709409005530181634?lang=en-gb'
+inLanguage: en
+starred: false
+keywords:
+  - a_bochkareva
+  - beautifulplcs
+  - twitter
+  - tweet
+  - location
+  - beautiful
+  - copying
+  - picture
+  - pic
+  - learn
+description: 'My best friend, fox | Photo by @a_bochkareva'
+datePublished: '2016-03-21T00:53:34.021Z'
+dateModified: '2016-03-21T00:50:58.944Z'
 author:
   - name: beautifulplcs
     url: 'http://twitter.com/beautifulplcs'
@@ -23,40 +43,22 @@ author:
           - 148
           - 136
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - a_bochkareva
-  - beautifulplcs
-  - twitter
-  - tweet
-  - location
-  - beautiful
-  - copying
-  - picture
-  - pic
-  - learn
-description: 'My best friend, fox | Photo by @a_bochkareva'
-inLanguage: en
 app_links:
   - path: 'twitter/tweet?status_id=709409005530181634&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E709409005530181634'
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/BEAUTIFULPlCS/status/709409005530181634?lang=en-gb'
-datePublished: '2016-03-21T00:45:01.094Z'
-dateModified: '2016-03-21T00:42:35.015Z'
 title: ''
 sourcePath: _posts/2016-03-21-my-best-friend-fox-or-photo-by-a_bochkareva.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![My best friend, fox | Photo by @a_bochkareva](https://pbs.twimg.com/media/CdhTuyoWEAAe14B.jpg:large)
+![My best friend, fox | Photo by @a_bochkareva](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e102c88cca38d4d48f2cdd7cc6b4cb366c708c05.jpg)
