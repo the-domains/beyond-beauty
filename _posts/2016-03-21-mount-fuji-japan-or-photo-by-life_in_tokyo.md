@@ -17,8 +17,8 @@ keywords:
   - copying
   - mount
 description: 'Mount Fuji, Japan | Photo by @life_in_tokyo'
-datePublished: '2016-03-21T00:53:43.612Z'
-dateModified: '2016-03-21T00:51:18.202Z'
+datePublished: '2016-03-21T00:53:56.051Z'
+dateModified: '2016-03-21T00:53:53.612Z'
 author:
   - name: beautifulplcs
     url: 'http://twitter.com/beautifulplcs'
