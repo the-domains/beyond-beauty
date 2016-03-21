@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/BEAUTIFULPlCS/status/709257848665071616?lang=en-gb'
+inLanguage: en
+starred: false
+keywords:
+  - twitter
+  - location
+  - tweet
+  - justbeautifulpics
+  - dmca
+  - gcdd1lczgd
+  - brandonexplores
+  - beautiful
+  - copying
+  - content
+description: 'The windy city | Photo by @brandonexplores #chicago'
+datePublished: '2016-03-21T00:53:26.542Z'
+dateModified: '2016-03-21T00:50:44.591Z'
 author:
   - name: beautifulplcs
     url: 'http://twitter.com/beautifulplcs'
@@ -23,40 +43,22 @@ author:
           - 148
           - 136
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - twitter
-  - location
-  - tweet
-  - justbeautifulpics
-  - dmca
-  - gcdd1lczgd
-  - brandonexplores
-  - beautiful
-  - copying
-  - content
-description: 'The windy city | Photo by @brandonexplores #chicago'
-inLanguage: en
 app_links:
   - path: 'twitter/tweet?status_id=709257848665071616&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E709257848665071616'
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/BEAUTIFULPlCS/status/709257848665071616?lang=en-gb'
-datePublished: '2016-03-21T00:45:01.066Z'
-dateModified: '2016-03-21T00:43:25.716Z'
 title: ''
 sourcePath: _posts/2016-03-21-the-windy-city-or-photo-by-brandonexplores-chicago.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![The windy city | Photo by @brandonexplores #chicago](https://pbs.twimg.com/media/CdfKQT5WEAA22qz.jpg:large)
+![The windy city | Photo by @brandonexplores #chicago](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41fce5962780823dda0689b54a4456abbe278418.jpg)
